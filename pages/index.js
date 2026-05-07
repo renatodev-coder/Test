@@ -1,5 +1,5 @@
 function Home() {
-return <h1>Renato bunitao sim e não 00</h1>
+return <h1>Meu  treinamento inicial</h1>
 }
 
 export default Home;
